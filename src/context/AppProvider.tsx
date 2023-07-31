@@ -52,7 +52,7 @@ export const AppContextProvider: React.FC<AppContextProviderProps> = ({
     },
     {
       id: 3,
-      img: "https://res.cloudinary.com/dacgvqpeg/image/upload/w_1000,ar_1:1,c_fill,g_auto,f_webp/v1688648259/images_ffrrid.jpg",
+      img: "https://res.cloudinary.com/dkkd5eszg/image/upload/w_1000,ar_1:1,c_fill,g_auto,f_webp/v1690830833/CategoriaOk_vb1a82.jpg",
       name: "Categorias",
     },
     {
